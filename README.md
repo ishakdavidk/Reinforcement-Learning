@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-Dongseo University
+Dongseo University - Prof. 강대기
